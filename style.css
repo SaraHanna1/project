@@ -1,0 +1,55 @@
+body{
+    background-color: gray;
+}
+nav {
+    background-color: rgb(13, 113, 13) !important;
+    } 
+
+.active{
+    background-color: red !important;
+    color:white;
+}
+.dropdown-toggle{
+    background-color: white  !important;
+    color:green;}
+
+
+#FB{
+    background-color: RED !important;
+    color: white;}
+
+#home{
+    background-color: white !important;
+    color:green;}
+
+.radius{
+    border-radius: 0 !important;
+} 
+
+#leb{ 
+    display:flex;
+    
+}
+h3{ 
+    color: white;
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+ #intro{
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    text-align: justify;
+    margin-top: 5%;
+ }     
+#maps{
+    margin: 10px;
+}
+#aud{
+    background: linear-gradient(to right, red,white ,rgb(1, 95, 1),red); /* Red, White, Green */
+    padding: 10px; /* Add some padding for better visibility */
+    border-radius: 10px; /* Optional: Add border radius for rounded corners */
+    text-align: center;
+}
+
